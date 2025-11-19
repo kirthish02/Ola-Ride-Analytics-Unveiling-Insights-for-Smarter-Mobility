@@ -1,2 +1,1 @@
-# Ola-Ride-Analytics-Unveiling-Insights-for-Smarter-Mobility
-Data Analytics
+# Ola-Ride-Analytics-Unveiling-Insights-for-Smarter-Mobility (SQL & Power BI)
